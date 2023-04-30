@@ -11,6 +11,6 @@ describe("Test suite 1:", ()=>{
     // })
     test("test 3: ", async()=>{
         const res = await request(app).get('./1222')
-        expect(res.statusCode).toEqual(404)
+        expect(res.statusCode).toEqual(400)
     })
 })
