@@ -9,7 +9,7 @@ describe("Test suite 1:", ()=>{
         const res = await request(app).get('./')
         expect(res.statusCode).toEqual(200)
     })
-    test("test 3: ", async()=>{
+    test("test 4: ", async()=>{
         const res = await request(app).get('./1222')
         expect(res.statusCode).toEqual(404)
     })
