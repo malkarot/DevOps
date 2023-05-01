@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/malkarot/Devops_new.git"
+    "url": "git+https://github.com/malkarot/DevOps.git"
     
   },
   "author": "malka",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/malkarot/Devops_new/issues"
+    "url": "https://github.com/malkarot/DevOps/issues"
   },
-  "homepage": "https://github.com/malkarot/Devops_new#readme",
+  "homepage": "https://github.com/malkarot/DevOps#readme",
   "dependencies": {
     "express": "^4.18.2"
   },
